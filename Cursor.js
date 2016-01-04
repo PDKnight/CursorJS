@@ -110,9 +110,3 @@ if (!Function.prototype.bind) {
 		return fBound;
 	};
 }
-
-
-/*** INITIALIZE ***/
-CursorJS.enable('http://files.softicons.com/download/toolbar-icons/plastic-mini-icons-by-deleket/png/32x32/Cursor-01.png');
-CursorJS.addEl(document.querySelector('.myElement1'));
-CursorJS.addEl(document.querySelector('.myElement3'));
